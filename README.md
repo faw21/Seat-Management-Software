@@ -1,2 +1,2 @@
-# Seat-Management-Software
+# Seat Pursuit
 Project from software engineering class
