@@ -1,0 +1,9 @@
+Tasks 
+
+1) add to the database.py method "getAllClassroomData" 
+	-add an input variable that specifies the userType (value is "STUDENT" or "PROFESSOR") 
+	-retrieve all student classes from database, and convert from a list of tuples
+	 to a list of lists
+2) add method to database.py that takes parameters classroom id, x, and y and adds a student to the seat if status isn't "reserved"
+3) add method in database.py that takes parameter classroom id and seat x and y, and returns first name and last name and notes for the student
+	
